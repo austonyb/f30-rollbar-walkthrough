@@ -1,0 +1,7 @@
+node_modules
+
+whatever.txt
+
+.env
+
+.DS_Store
